@@ -7,7 +7,6 @@ Instacart is a leading technology company offering same-day grocery delivery and
 ### **Objectives**  
 
 - Analyze anonymized [Instacart data](https://www.kaggle.com/c/instacart-market-basket-analysis/data) consisting of 3 million grocery orders from over 200,000 users.  
-- Identify hidden associations between products to enhance cross-selling and upselling strategies.  
 - Perform customer segmentation to optimize targeted marketing and predict customer behavior.  
 - Develop a Machine Learning model to anticipate which previously purchased products will be included in a user's next order.  
 
